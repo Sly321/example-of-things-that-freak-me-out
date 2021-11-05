@@ -1,0 +1,15 @@
+{
+  "name": "gist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@bitbucket.nortal.com:7999/~sven.liebig/gist.git",
+  "author": "Sven Liebig <sven.liebig@nortal.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.6"
+  }
+}
